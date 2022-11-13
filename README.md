@@ -1,6 +1,6 @@
-# Hypermedia-project
+# HYPERMEDIA PROJECT
 
- # PROJECT ANAYSIS
+ # Project Analysis
 - 👋 TARGET USER PROFILE
 - 👀 INFORMATION ARCHITECTURE
 - 🌱 VISUAL DESIGN
